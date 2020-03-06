@@ -1,5 +1,5 @@
 {
-  "name": "qs",
+  "name": "qsa-min",
   "version": "1.0.0",
   "description": "A minimal query selector helper library.",
   "main": "index.js",
