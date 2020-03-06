@@ -3,7 +3,7 @@ A minimal query selector helper library.
 
 # INSTALL
 ```bash
-npm install heapwolf/qs
+npm install qsa-min
 ```
 
 # API
